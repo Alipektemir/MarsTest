@@ -1,10 +1,10 @@
 package MarsTest;
 
-public class MarstTest {
+public class MarsTestClass2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+System.out.println("Mars Test class2");
 	}
 
 }
